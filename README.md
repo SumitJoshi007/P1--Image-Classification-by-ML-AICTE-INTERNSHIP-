@@ -11,9 +11,13 @@ This project implements an image classification system using a Convolutional Neu
 
 # 2. Features
 📷 Upload Images: Users can upload images through a simple web interface.
+
 🧠 CNN Model: Utilizes a Convolutional Neural Network (CNN) for accurate image classification.
+
 📊 Prediction Display: Shows the predicted class label and confidence score.
+
 🌐 Streamlit Deployment: Interactive and user-friendly interface built with Streamlit.
+
 🚀 Easy Deployment: Deployable on Streamlit Cloud for quick access.
 
 
@@ -28,4 +32,5 @@ Frameworks/Libraries:
 
 # Tools:
 IDE: VSCode / PyCharm / Jupyter Notebook
+
 Version Control: Git and GitHub
